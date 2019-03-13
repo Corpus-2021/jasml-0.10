@@ -1,0 +1,26 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/com/.*
+- ./bin/com/jasml/.*
+- ./bin/com/jasml/classes/.*
+- ./bin/com/jasml/compiler/.*
+- ./bin/com/jasml/decompiler/.*
+- ./bin/com/jasml/helper/.*
+- ./doc/.*
+- ./doc/javadoc/.*
+- ./doc/javadoc/class-use/.*
+- ./doc/javadoc/com/.*
+- ./doc/javadoc/com/jasml/.*
+- ./doc/javadoc/com/jasml/class-use/.*
+- ./doc/javadoc/com/jasml/classes/.*
+- ./doc/javadoc/com/jasml/classes/class-use/.*
+- ./doc/javadoc/com/jasml/compiler/.*
+- ./doc/javadoc/com/jasml/compiler/class-use/.*
+- ./doc/javadoc/com/jasml/decompiler/.*
+- ./doc/javadoc/com/jasml/decompiler/class-use/.*
+- ./doc/javadoc/com/jasml/helper/.*
+- ./doc/javadoc/com/jasml/helper/class-use/.*
+- ./doc/javadoc/index-files/.*
